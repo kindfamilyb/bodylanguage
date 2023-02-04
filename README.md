@@ -11,3 +11,6 @@ https://www.youtube.com/watch?v=We1uB79Ci-w
 
 3. Sign Language Detection using ACTION RECOGNITION with Python | LSTM Deep Learning Model  
 https://www.youtube.com/watch?v=doDUihpj6ro&t=134s  
+
+4. Pose Estimation with the Fastest Python Deep Learning Model | MoveNet Lightning. 
+https://youtu.be/SSW9LzOJSus 
